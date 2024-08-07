@@ -1,4 +1,4 @@
-import { HeroImage } from 'components/HeaderImage';
+import { HeroImage } from '@components/HeaderImage';
 import React from 'react';
 import { StyleSheet, View, SafeAreaView, Image, StatusBar } from 'react-native';
 
