@@ -5,7 +5,7 @@ import {
   createNativeStackNavigator,
   NativeStackNavigationOptions,
 } from '@react-navigation/native-stack';
-import AuthPage from './src/pages/auth_page';
+import { AuthPage } from './src/pages/auth_page';
 
 export default function App() {
   const Stack = createNativeStackNavigator();
