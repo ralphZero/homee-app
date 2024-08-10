@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
   headerContainer: {
     position: 'absolute',
     width: '100%',
-    height: '100%',
+    height: 380,
   },
   imageShadow: {
     position: 'absolute',
